@@ -1,10 +1,8 @@
-# First Chapter
+# Documento de Requisitos de Software
 
 ## Introdução
 
-Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos 
-
-desenvolvedores as informações necessárias para o projeto e implementação, assim como para 
+Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para 
 
 a realização dos testes e homologação do sistema.
 
@@ -190,6 +188,14 @@ Descrição do requisito: Este permite que o usuário escolha o período ao qual
 
 de acordo com a modalidade do curso selecionada.
 
+
+---
+
+
+
+---
+
+
 Prioridade:  Essencial  Importante  Desejável 
 
 Entradas e pré-condições: a modalidade do curso deve estar definida (RF001).
@@ -199,3 +205,10 @@ Saídas e pós-condição: O período é selecionado e as disciplinas estarão d
 acordo com a tipo do curso escolhido.
 
  [RF004] Escolha de disciplinas
+
+---
+
+
+
+---
+
