@@ -1,4 +1,4 @@
-<aling=center>Documentação do Sistema Teacher TimeTable
+Documentação do Sistema Teacher TimeTable
 ===========
 
 Neste documento apresentaremos 
