@@ -10,11 +10,10 @@ a realização dos testes e homologação do sistema.
 
 Além desta seção introdutória, as seções seguintes estão organizadas como descrito abaixo.
 
-1. Seção 2 – Descrição geral do sistema: apresenta uma visão geral do sistema, 
+Seção 2 – Descrição geral do sistema: apresenta uma visão geral do sistema, 
 
 caracterizando qual é o seu escopo e descrevendo seus usuários.
-
-2. Seção 3 – Requisitos funcionais (casos de uso): especifica todos os casos de uso do 
+Seção 3 – Requisitos funcionais (casos de uso): especifica todos os casos de uso do 
 
 sistema, descrevendo os fluxos de eventos, prioridades, atores, entradas e saídas de cada caso 
 
