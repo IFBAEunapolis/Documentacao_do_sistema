@@ -1,5 +1,7 @@
 {
-     "styles": {
-         pdf: styles/pdf.css, 
+    }
+        "styles": {
+             "pdf": "styles/pdf.css", 
+        }
      }
 }
