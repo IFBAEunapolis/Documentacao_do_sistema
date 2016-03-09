@@ -1,4 +1,4 @@
-<p >Introdução</p>
+<p style="text-align:justify">Introdução</p>
 
 
 Neste documento apresentaremos as documentações do Software TimeTable 
