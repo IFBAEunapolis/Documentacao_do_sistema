@@ -1,9 +1,9 @@
-Documento de Requisitos de Software
+1. Documento de Requisitos de Software
 ---
 
 Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-###2.1. Visão geral do documento
+###1.1. Visão geral do documento
 
 Além desta seção introdutória, as seções seguintes estão organizadas como descrito abaixo.
 
@@ -16,11 +16,11 @@ Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não fu
 
 Seção 5 – Referências: apresenta referências para outros documentos utilizados para a confecção deste documento.
 
-###2.1.1 Convenções, termos e abreviações
+###1.1.1 Convenções, termos e abreviações
 
 A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, que são descritos a seguir.
 
-####2.1.2. Identificação dos requisitos
+####1.1.2. Identificação dos requisitos
 
 Por convenção, a referência a requisitos é feita através do nome da subseção onde eles estão descritos, seguidos do identificador do requisito, de acordo com a especificação a seguir:
 
@@ -30,7 +30,7 @@ Por exemplo, o requisito funcional [Recuperação de dados.RF016] deve estar des
 
 Os requisitos devem ser identificados com um identificador único. A numeração inicia com o identificador [RF001] ou [NF001] e prossegue sendo incrementada à medida que forem surgindo novos requisitos.
 
-#### 2.1.3. Prioridades dos requisitos
+#### 1.1.3. Prioridades dos requisitos
 
 Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas as denominações “essencial”, “importante” e “desejável”. 
 
