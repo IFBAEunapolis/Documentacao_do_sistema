@@ -1,9 +1,9 @@
 2. Documento de Requisitos de Software
 ===
+  Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
-
-### Visão geral do documento
+2. 
+Visão geral do documento
 
 Além desta seção introdutória, as seções seguintes estão organizadas como descrito abaixo.
 
@@ -18,11 +18,15 @@ sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, seg
 
 Seção 5 – Referências: apresenta referências para outros documentos utilizados para a confecção deste documento.
 
-###Convenções, termos e abreviações
+###1.1. 
+
+
+
+ Convenções, termos e abreviações
 
 A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, que são descritos a seguir.
 
-####Identificação dos requisitos
+####2.1.2. Identificação dos requisitos
 
 Por convenção, a referência a requisitos é feita através do nome da subseção onde eles estão 
 
@@ -44,7 +48,7 @@ identificador [RF001] ou [NF001] e prossegue sendo incrementada à medida que fo
 
 surgindo novos requisitos.
 
-#### Prioridades dos requisitos
+#### 2.1.3. Prioridades dos requisitos
 
 Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas as denominações “essencial”, “importante” e “desejável”. 
 
@@ -56,13 +60,10 @@ essenciais são requisitos imprescindíveis, que têm que ser implementados impr
 
 * **Desejável:** é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 
 
-Documento de Requisitos
+1. 1. 1. 
 
-Arquivo: documentoRequisitos.doc 
 
-Última Atualização: 18/02/2016 11:46:00 h 
-
-2. Descrição geral do sistema
+Descrição geral do sistema
 
 
 3. Requisitos funcionais 
