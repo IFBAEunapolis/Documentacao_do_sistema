@@ -1,4 +1,4 @@
-2.2. Descrição Geral do Sistema
+1.2. Descrição Geral do Sistema
 ---
 
 O sistema Teacher Timetable é uma ferramenta para otimizar o processo de desenvolvimento de horários de aulas em ambiente acadêmico.  Fornece uma maneira intuitiva e eficiente para definir e usar Regras essenciais para a criação de horários de aula para os professores. Um componente pode ser compreendido como uma regra para a validação na hora da criação de um horário de aula.
