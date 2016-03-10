@@ -43,6 +43,12 @@ Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas
 
 ####2.2 Descrição geral do sistema
 
+O sistema Teacher Timetable é uma ferramenta para otimizar o processo de desenvolvimento de horários de aulas em ambiente acadêmico.  Fornece uma maneira intuitiva e eficiente para definir e usar Regras essenciais para a criação de horários de aula para os professores. Um componente pode ser compreendido como uma regra para a validação na hora da criação de um horário de aula.
+
+Utilizando a ferramenta, o usuário - em geral, professores e coordenadores, poderá criar regras ,especifico para usuário coordenador/administrador, poderá criar seu calendário de forma individualizado. Além disso, poderá alterar remover e consultar disciplinas já criadas. Tais componentes podem ser alterados pelo administrador de forma que cause impacto para todos os professores na hora da criação de um horário. 
+
+A ferramenta conterá também a possibilidade de exportação dos horários criados para os formatos padrões, tais como, PDF, JPG, DOC, etc.
+
 
  [RF001] Criar Regra
 
