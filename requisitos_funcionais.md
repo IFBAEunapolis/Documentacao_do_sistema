@@ -3,6 +3,34 @@
 ###2.1. Dos de Usuário
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 **NOME:** [RF001] Cadastrar Usuário
 
 **DESCRIÇÃO:** Realizar o cadastro de usuário no sistema inserindo os dados de (nome, matrícula, Setror de lotação, Login e Senha)e armazenando os dados no banco de dados.
