@@ -1,6 +1,7 @@
-2. Documento de Requisitos de Software
-===
-  Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
+Documento de Requisitos de Software
+---
+
+Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
 ###2.1. Visão geral do documento
 
