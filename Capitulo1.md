@@ -40,8 +40,6 @@ Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas
 
 * **Desejável:** é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 
 
-####2.2 Descrição geral do sistema
-
 
 
 
