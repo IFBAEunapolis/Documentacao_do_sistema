@@ -1,9 +1,9 @@
-1. Documento de Requisitos de Software
+2. Documento de Requisitos de Software
 ===
 
 Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-1.1 Visão geral do documento
+### Visão geral do documento
 
 Além desta seção introdutória, as seções seguintes estão organizadas como descrito abaixo.
 
@@ -12,23 +12,17 @@ caracterizando qual é o seu escopo e descrevendo seus usuários.
 
 Seção 3 – Requisitos funcionais (casos de uso): especifica todos os casos de uso do sistema, descrevendo os fluxos de eventos, prioridades, atores, entradas e saídas de cada caso de uso a ser implementado. 
 
-3. Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não funcionais do 
+Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não funcionais do 
 
-sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, segurança, 
+sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, segurança, distribuição, adequação a padrões e requisitos de hardware e software.
 
-distribuição, adequação a padrões e requisitos de hardware e software.
+Seção 5 – Referências: apresenta referências para outros documentos utilizados para a confecção deste documento.
 
-4. Seção 5 – Referências: apresenta referências para outros documentos utilizados para a 
+###Convenções, termos e abreviações
 
-confecção deste documento.
+A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, que são descritos a seguir.
 
-1.2 Convenções, termos e abreviações
-
-A correta interpretação deste documento exige o conhecimento de algumas convenções e 
-
-termos específicos, que são descritos a seguir.
-
-1.2.1 Identificação dos requisitos
+####Identificação dos requisitos
 
 Por convenção, a referência a requisitos é feita através do nome da subseção onde eles estão 
 
@@ -50,29 +44,17 @@ identificador [RF001] ou [NF001] e prossegue sendo incrementada à medida que fo
 
 surgindo novos requisitos.
 
-1.2.2 Prioridades dos requisitos
+#### Prioridades dos requisitos
 
-Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas as 
+Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas as denominações “essencial”, “importante” e “desejável”. 
 
-denominações “essencial”, “importante” e “desejável”. 
-
-5. Essencial é o requisito sem o qual o sistema não entra em funcionamento. Requisitos 
+*  **Essencial:** é o requisito sem o qual o sistema não entra em funcionamento. Requisitos 
 
 essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
 
-6. Importante é o requisito sem o qual o sistema entra em funcionamento, mas de forma 
+* **Importante:** é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
 
-não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o 
-
-sistema poderá ser implantado e usado mesmo assim.
-
-7. Desejável é o requisito que não compromete as funcionalidades básicas do sistema, 
-
-isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem 
-
-ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-
-
-los na versão que está sendo especificada. 
+* **Desejável:** é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 
 
 Documento de Requisitos
 
