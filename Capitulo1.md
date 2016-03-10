@@ -23,25 +23,13 @@ A correta interpretação deste documento exige o conhecimento de algumas conven
 
 ####2.1.2. Identificação dos requisitos
 
-Por convenção, a referência a requisitos é feita através do nome da subseção onde eles estão 
+Por convenção, a referência a requisitos é feita através do nome da subseção onde eles estão descritos, seguidos do identificador do requisito, de acordo com a especificação a seguir:
 
-descritos, seguidos do identificador do requisito, de acordo com a especificação a seguir:
+     [nome da subseção. identificador do requisito]
 
-[nome da subseção. identificador do requisito]
+Por exemplo, o requisito funcional [Recuperação de dados.RF016] deve estar descrito em uma subseção chamada “Recuperação de dados”, em um bloco identificado pelo número [RF016]. Já o requisito não-funcional [Confiabilidade.NF008] deve estar descrito na seção de requisitos não-funcionais de Confiabilidade, em um bloco identificado por [NF008]. 
 
-Por exemplo, o requisito funcional [Recuperação de dados.RF016] deve estar descrito em 
-
-uma subseção chamada “Recuperação de dados”, em um bloco identificado pelo número 
-
-[RF016]. Já o requisito não-funcional [Confiabilidade.NF008] deve estar descrito na seção de 
-
-requisitos não-funcionais de Confiabilidade, em um bloco identificado por [NF008]. 
-
-Os requisitos devem ser identificados com um identificador único. A numeração inicia com o 
-
-identificador [RF001] ou [NF001] e prossegue sendo incrementada à medida que forem 
-
-surgindo novos requisitos.
+Os requisitos devem ser identificados com um identificador único. A numeração inicia com o identificador [RF001] ou [NF001] e prossegue sendo incrementada à medida que forem surgindo novos requisitos.
 
 #### 2.1.3. Prioridades dos requisitos
 
