@@ -2,8 +2,7 @@
 ===
   Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para a realização dos testes e homologação do sistema.
 
-2. 
-Visão geral do documento
+###2.1. Visão geral do documento
 
 Além desta seção introdutória, as seções seguintes estão organizadas como descrito abaixo.
 
@@ -18,11 +17,7 @@ sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, seg
 
 Seção 5 – Referências: apresenta referências para outros documentos utilizados para a confecção deste documento.
 
-###1.1. 
-
-
-
- Convenções, termos e abreviações
+####2.1.1. Convenções, termos e abreviações
 
 A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, que são descritos a seguir.
 
@@ -52,21 +47,14 @@ surgindo novos requisitos.
 
 Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas as denominações “essencial”, “importante” e “desejável”. 
 
-*  **Essencial:** é o requisito sem o qual o sistema não entra em funcionamento. Requisitos 
-
-essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
+*  **Essencial:** é o requisito sem o qual o sistema não entra em funcionamento. Requisitos essenciais são requisitos imprescindíveis, que têm que ser implementados impreterivelmente.
 
 * **Importante:** é o requisito sem o qual o sistema entra em funcionamento, mas de forma não satisfatória. Requisitos importantes devem ser implementados, mas, se não forem, o sistema poderá ser implantado e usado mesmo assim.
 
 * **Desejável:** é o requisito que não compromete as funcionalidades básicas do sistema, isto é, o sistema pode funcionar de forma satisfatória sem ele. Requisitos desejáveis podem ser deixados para versões posteriores do sistema, caso não haja tempo hábil para implementá-los na versão que está sendo especificada. 
 
-1. 1. 1. 
+####2.2 Descrição geral do sistema
 
-
-Descrição geral do sistema
-
-
-3. Requisitos funcionais 
 
  [RF001] Criar Regra
 
