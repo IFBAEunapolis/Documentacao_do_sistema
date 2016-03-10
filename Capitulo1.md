@@ -2,7 +2,7 @@
 ===
 
 
-## Introdução
+
 
 Este documento especifica os requisitos do sistema Teacher Timetable, fornecendo aos desenvolvedores as informações necessárias para o projeto e implementação, assim como para 
 
