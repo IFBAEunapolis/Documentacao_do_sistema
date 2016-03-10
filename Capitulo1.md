@@ -10,7 +10,7 @@ Além desta seção introdutória, as seções seguintes estão organizadas como
 Seção 2 – Descrição geral do sistema: apresenta uma visão geral do sistema, 
 caracterizando qual é o seu escopo e descrevendo seus usuários.
 
-Seção 3 – Requisitos funcionais (casos de uso): especifica todos os casos de uso do sistema, descrevendo os fluxos de eventos, prioridades, atores, entradas e saídas de cada caso de uso a ser implementado. 
+~~Seção 3 – Requisitos funcionais: especifica todos os requisitos funcionais do sistema descrevendo os fluxos de eventos, prioridades, atores, entradas e saídas de cada caso de uso a ser implementado. ~~
 
 Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não funcionais do sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, segurança, distribuição, adequação a padrões e requisitos de hardware e software.
 
