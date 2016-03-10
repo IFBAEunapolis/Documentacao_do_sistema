@@ -11,13 +11,11 @@ caracterizando qual é o seu escopo e descrevendo seus usuários.
 
 Seção 3 – Requisitos funcionais (casos de uso): especifica todos os casos de uso do sistema, descrevendo os fluxos de eventos, prioridades, atores, entradas e saídas de cada caso de uso a ser implementado. 
 
-Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não funcionais do 
-
-sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, segurança, distribuição, adequação a padrões e requisitos de hardware e software.
+Seção 4 – Requisitos não-funcionais: especifica todos os requisitos não funcionais do sistema, divididos em requisitos de usabilidade, confiabilidade, desempenho, segurança, distribuição, adequação a padrões e requisitos de hardware e software.
 
 Seção 5 – Referências: apresenta referências para outros documentos utilizados para a confecção deste documento.
 
-####2.1.1. Convenções, termos e abreviações
+###2.1.1 Convenções, termos e abreviações
 
 A correta interpretação deste documento exige o conhecimento de algumas convenções e termos específicos, que são descritos a seguir.
 
