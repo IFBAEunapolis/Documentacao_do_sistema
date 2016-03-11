@@ -43,6 +43,11 @@ Para estabelecer a prioridade dos requisitos, nas seções 4 e 5, foram adotadas
 
 
 
+
+
+
+
+
  [RF001] Criar Regra
 
 Descrição do requisito: Este permite que o administrador crie e armazene um novo 
