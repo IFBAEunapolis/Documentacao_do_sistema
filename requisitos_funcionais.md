@@ -75,48 +75,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**NOME:** [RF001] Cadastrar Usuário
-
-**DESCRIÇÃO:** Realizar o cadastro de usuário no sistema inserindo os dados de (nome, matrícula, Setror de lotação, Login e Senha)e armazenando os dados no banco de dados.
-
-**PRIORIDADE:** Essencial
-
-**ENTRADA:** Autenticação do usuário no sistema
-
-**SAIDA:** Mensagem confirmando o cadastro
-
----
-
-**NOME:** [RF002] Alterar Usuário
-
-**DESCRIÇÃO:** Realiza a alteração dos do cadastro de usuário no sistema, podendo ser manipulados (nome, matrícula, Setror de lotação, Login e Senha.
-
-**PRIORIDADE:** Essencial
-
-**ENTRADA:** Autenticação do usuário no sistema e busca de usuário pelo nome
-
-**SAIDA:** Mensagem confirmando a alteração dados.
-
----
-
-**NOME:** [RF003] Excluir Usuário
+r Usuário
 
 **DESCRIÇÃO:** Apaga os dados do  usuário cadastrado no sistema.
 
