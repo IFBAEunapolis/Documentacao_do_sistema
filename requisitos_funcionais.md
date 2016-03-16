@@ -59,3 +59,13 @@
 |  **NOME**     | Apagar Período|
 |  **NIVEL**     |Essencial|
 |  **DESCRIÇÃO** |  <p style="text-align:justify">A instituição pode passar por reformas e por isso alguns locais físicos podem deixar de existir.</p> |
+###1.3.3. Das Disciplinas 
+###1.3.4. Dos Horarios de Aula
+###1.3.5. Dos Periodos Letivos
+###1.3.6. Dos Períodos Letivos por Professor
+###1.3.7. Dos Planos de Aula
+###1.3.8. Dos Planos Letivos
+###1.3.9. Dos Professores
+###1.3.10. Dos Período Letivo por professor
+###1.3.11. Dos Semestres
+###1.3.12. Das Turmas
