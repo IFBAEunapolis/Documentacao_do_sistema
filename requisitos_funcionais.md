@@ -59,32 +59,3 @@
 |  **NOME**     | Apagar Período|
 |  **NIVEL**     |Essencial|
 |  **DESCRIÇÃO** |  <p style="text-align:justify">A instituição pode passar por reformas e por isso alguns locais físicos podem deixar de existir.</p> |
-
-
-
-
-
-> 
-
-
-
-
-
-
-
-
-
-
-r Usuário
-
-**DESCRIÇÃO:** Apaga os dados do  usuário cadastrado no sistema.
-
-**PRIORIDADE:** Essencial
-
-**ENTRADA:** Autenticação do usuário no sistema e busca de usuário pelo nome
-
-**SAIDA:** Mensagem confirmando a exlusão do  usuário.
-
-
-
-
