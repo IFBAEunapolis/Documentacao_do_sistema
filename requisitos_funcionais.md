@@ -12,7 +12,7 @@
 | :------:      | :---------- |
 |  **NOME**     | Consultar de Curso|
 |  **NIVEL**     |Essencial|
-|  **DESCRIÇÃO** | <p style="text-align:justify"> Fazer a consulta de cursos será um processo importante na associação do mesmo com alguma outra entidade.</p> |
+|  **DESCRIÇÃO** | <p style="text-align:justify"> Esta funcionalidadade tem por objetivo fazer as consulta dos curos .</p> |
 
 | **CODIGO**     | RF003  |
 | :------:      | :---------- |
