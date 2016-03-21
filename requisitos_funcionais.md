@@ -6,7 +6,7 @@
 | :------:      | :---------- |
 |  **NOME**     | Cadastrar  Curso|
 |  **NIVEL**     |Essencial|
-|  **DESCRIÇÃO** | <p style="text-align:justify"> O sistema deve permitrir É importante para todo sistema manter os cursos da instituição no sistema pois ele representa a primeira entidade/camada a ser cadastrada.</p> |
+|  **DESCRIÇÃO** | <p style="text-align:justify"> O sistema deve permitrir o cadastro de novos cursos e seus atributos (coodigo e nome).</p> |
 
 | **CODIGO**     | RF002  |
 | :------:      | :---------- |
