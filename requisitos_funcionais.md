@@ -18,13 +18,13 @@
 | :------:      | :---------- |
 |  **NOME**     | Alterar Curso|
 |  **NIVEL**     |Essencial|
-|  **DESCRIÇÃO** |  <p style="text-align:justify">Essa funcionalidade permitirá a exclusão de um curso cadastrado desde que não nenhuma turma esja relacionado com o curso.</p> |
+|  **DESCRIÇÃO** |  <p style="text-align:justify">Será possivel alterar os nomes dos cursos cadastrados no sistema.</p> |
 
 | **CODIGO**     | RF003  |
 | :------:      | :---------- |
 |  **NOME**     | Apagar Curso|
 |  **NIVEL**     |Essencial|
-|  **DESCRIÇÃO** |  <p style="text-align:justify">Essa funcionalidade permitirá a exclusão de um curso cadastrado desde que não nenhuma turma esja relacionado com o curso.</p> |
+|  **DESCRIÇÃO** |  <p style="text-align:justify">Essa funcionalidade permitirá a exclusão de um curso cadastrado desde que não nenhuma turma esja relacionado com o curso a ser apagado.</p> |
 
 ###1.3.2. Dos Locais Físicos
 
