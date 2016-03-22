@@ -12,7 +12,7 @@
 | :------:      | :---------- |
 |  **NOME**     | Consultar de Curso|
 |  **NIVEL**     |Essencial|
-|  **DESCRIÇÃO** | <p style="text-align:justify"> Esta funcionalidadade tem por objetivo fazer as consulta dos curos .</p> |
+|  **DESCRIÇÃO** | <p style="text-align:justify"> Esta funcionalidadade tem por objetivo fazer as consulta dos cursos cadastrados no sistemas  .</p> |
 
 | **CODIGO**     | RF003  |
 | :------:      | :---------- |
